@@ -6,10 +6,10 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts in C++,
 
 ## 📚 Training Source
 
-This project was developed as part of the Object-Oriented Programming training with
+This project was developed as part of the training Roadmap with
 Dr. Mohamed AbouHadhood 👨‍🏫
 
-🔗 Programming Advices Website
+🔗 [AbouHadhood Platform](https://programmingadvices.com/)
 
 ---
 
